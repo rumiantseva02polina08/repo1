@@ -1,0 +1,101 @@
+Rank,Name,Industry,Revenue,Revenue_growth,Employees,Headquarters,Year,Type,Website,Latitude,Longitude,Number_of_subsidiaries,Age
+1,Walmart,Retail,611289,6.7%,2100000,"Bentonville, Arkansas",1962,Public,https://www.walmart.com/,36.3728,-94.2089,400,61
+2,Amazon,Retail and Cloud Computing,513983,9.4%,1540000,"Seattle, Washington",1994,Public,https://www.amazon.com/,47.6062,-122.3321,100,29
+3,Exxon Mobil,Petroleum industry,41368,44.8%,62000,"Spring, Texas",1889,Public,https://corporate.exxonmobil.com/,30.0799,-95.4172,100,134
+4,Apple,Electronics industry,394328,7.8%,164000,"Cupertino, California",1976,Public,https://apple.com/ua/,37.3229,-122.0321,20,47
+5,UnitedHealth Group,Healthcare,324162,12.7%,400000,"Minnetonka, Minnesota",1977,Public,http://www.unitedhealthgroup.com/,44.9035,-93.456,40,46
+6,CVS Health,Healthcare,322467,10.4%,259500,"Woonsocket, Rhode Island",1963,Public,http://cvshealth.com/,42.0003,-71.506,40,60
+7,Berkshire Hathaway,Conglomerate,302089,9.4%,383000,"Omaha, Nebraska",1955,Public,https://www.berkshirehathaway.com/,41.2523,-95.9979,90,68
+8,Alphabet,Technology,282836,9.8%,156000,"Mountain View, California",2015,Public,https://abc.xyz/,37.419,-122.0816,300,8
+9,McKesson Corporation,Health,276711,4.8%,48500,"Irving, Texas",1833,Public,http://mckesson.com/,32.814,-96.9294,50,190
+10,Chevron Corporation,Petroleum industry,246252,51.6%,43846,"San Ramon, California",1979,Public,https://www.chevron.com/,37.7859,-121.9781,100,44
+11,AmerisourceBergen,Pharmaceutical industry,238587,11.5%,41500,"Chesterbrook, Pennsylvania",2001,Public,http://www.amerisourcebergen.com/,40.0442,-75.3891,50,22
+12,Costco,Retail,226954,15.8%,304000,"Issaquah, Washington",1983,Public,https://www.costco.com/,47.5803,-122.0449,10,40
+13,Microsoft,Technology,19827,18.0%,221000,"Redmond, Washington",1975,Public,https://www.microsoft.com/,47.6739,-122.1315,200,48
+14,Cardinal Health,Healthcare,181364,11.6%,46035,"Dublin, Ohio",1971,Public,https://www.cardinalhealth.com/,40.1092,-83.1141,50,52
+15,Cigna,Health Insurance,180516,3.7%,70231,"Bloomfield, Connecticut",1982,Public,http://cigna.com/,41.7792,-72.7657,20,41
+16,Marathon Petroleum,Petroleum industry,180012,27.6%,17800,"Findlay, Ohio",2009,Public,https://www.marathonpetroleum.com/,41.0379,-83.6378,20,14
+17,Phillips 66,Petroleum industry,175702,53.0%,13000,"Houston, Texas",2012,Public,https://www.phillips66.com/,29.7619,-95.3863,20,11
+18,Valero Energy,Petroleum industry,171189,58.0%,9743,"San Antonio, Texas",1980,Public,http://www.valero.com/,29.4241,-98.4951,10,43
+19,Ford Motor Company,Automotive industry,158057,15.9%,173000,"Dearborn, Michigan",1903,Public,http://ford.ua/,42.2933,-83.1766,10,120
+20,The Home Depot,Retail,157403,4.1%,471600,"Atlanta, Georgia",1978,Public,https://www.homedepot.com/,33.7489,-84.3879,10,45
+21,General Motors,Automotive,156735,23.4%,167000,"Detroit, Michigan",1908,Public,https://www.gm.com/,42.3314,-83.0457,10,115
+22,Elevance Health,Healthcare,156595,13.0%,102200,"Indianapolis, Indiana",2004,Public,http://elevancehealth.com/,39.9611,-86.158,10,19
+23,JPMorgan Chase,Financial services,154792,21.7%,293723,"New York City, New York",1968,Public,http://www.jpmorganchase.com/,40.7127,-74.0059,100,55
+24,Kroger,Retail,148258,7.5%,430000,"Cincinnati, Ohio",1883,Public,http://www.thekrogerco.com/,39.1031,-84.512,10,140
+25,Centene,Healthcare,144547,14.7%,74300,"St. Louis, Missouri",1984,Public,https://www.centene.com/,38.627,-90.1994,10,39
+26,Verizon Communications,Telecommunications,136835,2.4%,117100,"New York City, New York",1983,Public,https://www.verizon.com/,40.7127,-74.0059,20,40
+27,Walgreens Boots Alliance,Pharmaceutical industry,132703,10.7%,262500,"Deerfield, Illinois",2014,Public,http://walgreensbootsalliance.com/,42.1881,-87.8833,100,9
+28,Fannie Mae,Financials,121596,19.7%,8000,"Washington, D.C.",1938,Public,https://www.fanniemae.com/,38.8951,-77.0366,1,85
+29,Comcast,Telecommunications,121427,4.3%,186000,"Philadelphia, Pennsylvania",1963,Public,http://corporate.comcast.com/,39.9525,-75.1652,100,60
+30,AT&T,Conglomerate,120741,28.5%,160700,"Dallas, Texas",1885,Public,http://att.com/,32.783,-96.7511,100,138
+31,Meta Platforms,Technology,116609,1.1%,86482,"Menlo Park, California",2004,Public,https://meta.com/,37.4536,-122.1425,10,19
+32,Bank of America,Financials,115053,22.6%,216823,"Charlotte, North Carolina",1998,Public,http://bankofamerica.com/,35.227,-80.8431,100,25
+33,Target Corporation,Retail,10912,2.9%,440000,"Minneapolis, Minnesota",1902,Public,https://target.com/,44.9777,-93.265,10,121
+34,Dell Technologies,Technology,102301,4.4%,133000,"Round Rock, Texas",2016,Public,http://dell.com/,30.501,-97.6766,10,7
+35,Archer Daniels Midland,Food industry,101556,19.1%,41181,"Chicago, Illinois",1902,Public,http://adm.com/,41.8781,-87.6297,10,121
+36,Citigroup,Financials,101078,26.6%,238104,"New York City, New York",1812,Public,http://www.citigroup.com/,40.7127,-74.0059,100,211
+37,United Parcel Service,Transportation,100338,3.1%,404700,"Atlanta, Georgia",1907,Public,http://ups.com/,33.7489,-84.3879,100,116
+38,Pfizer,Pharmaceutical industry,10033,23.4%,83000,"New York City, New York",1849,Public,http://www.pfizer.com/,40.7127,-74.0059,100,174
+39,Lowe's,Retail,97059,0.8%,244500,"Mooresville, North Carolina",1921,Public,https://lowes.com/,35.5961,-80.8355,10,102
+40,Johnson & Johnson,Pharmaceutical industry,94943,1.2%,152700,"New Brunswick, New Jersey",1886,Public,https://www.jnj.com/,40.3164,-74.4518,100,137
+41,FedEx,Transportation,93512,11.4%,518249,"Memphis, Tennessee",1971,Public,https://www.fedex.com/,35.1495,-90.0492,100,52
+42,Humana,Health Insurance,9287,11.8%,67100,"Louisville, Kentucky",1961,Public,https://www.humana.com/,38.2529,-85.7585,10,62
+43,Energy Transfer Partners,Petroleum industry,89876,33.3%,12565,"Dallas, Texas",1995,Delaware-domiciled master limited partnership,https://www.energytransfer.com/,32.7831,-96.7594,10,28
+44,State Farm,Financials,89328,8.6%,60519,"Bloomington, Illinois",1922,Private,https://www.statefarm.com/,40.4992,-88.9861,1,101
+45,Freddie Mac,Financials,86717,31.6%,7819,"McLean, Virginia",1970,Public,https://www.freddiemac.com/,38.8899,-77.1879,1,53
+46,PepsiCo,Beverage,86859,8.7%,315000,"Purchase, New York",1965,Public,http://www.pepsico.ua/,41.0548,-73.7082,100,58
+47,Wells Fargo,Financials,82859,0.5%,238000,"San Francisco, California",1929,Public,https://www.wellsfargo.com/,37.7833,-122.4167,100,94
+48,The Walt Disney Company,Media,82722,22.7%,195800,"Burbank, California",1923,Public,https://thewaltdisneycompany.com/,34.1803,-118.3083,100,100
+49,ConocoPhillips,Petroleum industry,82156,69.9%,9500,"Houston, Texas",2002,Public,https://www.conocophillips.com/,29.7604,-95.3698,10,21
+50,Tesla,Automotive and Energy,81462,51.4%,127855,"Austin, Texas",2003,Public,https://www.tesla.com/,30.2672,-97.7431,10,20
+51,Procter & Gamble,Consumer products Manufacturing,80187,5.3%,106000,"Cincinnati, Ohio",1837,Public,https://pg.com/,39.1031,-84.512,100,186
+52,United States Postal Service,Logistics,7862,2.0%,576000,"Washington, D.C.",1971,Independent,https://usps.com/,38.8951,-77.0369,1,52
+53,Albertsons,Retail,7765,8.0%,198650,"Boise, Idaho",1939,Public,https://www.albertsons.com/,43.615,-116.2169,10,84
+54,General Electric,Conglomerate,76555,3.2%,172000,"Boston, Massachusetts",1892,Public,https://www.ge.com/,42.3601,-71.0589,100,131
+55,MetLife,Financials,69898,1.7%,45000,"New York City, New York",1868,Public,https://www.metlife.com/,40.7128,-74.006,10,155
+56,Goldman Sachs,Financials,68711,5.7%,48500,"New York City, New York",1869,Public,http://www.gs.com/,40.7128,-74.006,10,154
+57,Sysco,Food Service,68636,33.8%,70510,"Houston, Texas",1969,Public,http://sysco.com/,29.7604,-95.3698,10,54
+58,Bunge Limited,Food industry,67232,13.7%,23000,"White Plains, New York",1818,Public,http://www.bunge.com/,41.0561,-73.7626,10,205
+59,RTX Corporation,Conglomerate,67074,4.2%,182000,"Arlington County, Virginia",2020,Public,http://rtx.com/,38.8824,-77.1078,10,3
+60,Boeing,Aerospace and defense,66608,6.9%,156000,"Chicago, Illinois",1916,Public,https://boeing.com/,41.8781,-87.6298,100,107
+61,StoneX Group,Financials,66036,55.3%,3605,"New York City, New York",1924,Public,https://www.stonex.com/,40.7128,-74.006,10,99
+62,Lockheed Martin,Aerospace and Defense,65984,1.6%,116000,"Bethesda, Maryland",1995,Public,https://www.lockheedmartin.com/,38.9894,-77.0788,100,28
+63,Morgan Stanley,Financials,65936,7.9%,82427,"New York City, New York",2008,Public,https://www.morganstanley.com/,40.7127,-74.0059,10,15
+64,Intel,Technology,63054,20.1%,131900,"Santa Clara, California",1968,Public,https://www.intel.com/,37.3541,-121.9556,10,55
+65,HP,Technology,62983,0.8%,58000,"Palo Alto, California",1939,Public,http://www.hewlett-packard.com/,37.4419,-122.1411,10,84
+66,TD Synnex,Infotech,62344,97.2%,28500,"Clearwater, Florida",2021,Public,http://tdsynnex.com/,28.0014,-82.7661,10,2
+67,IBM,Technology,6053,16.3%,303100,"Armonk, New York",1911,Public,https://www.ibm.com/,41.1092,-73.7128,100,112
+68,HCA Healthcare,Healthcare,60233,2.5%,250500,"Nashville, Tennessee",1968,Public,http://hcahealthcare.com/,36.1627,-86.7816,10,55
+69,Prudential Financial,Financials,6005,15.3%,39583,"Newark, New Jersey",1875,Public,http://www.prudential.com/,40.7127,-74.1798,10,148
+70,Caterpillar,Machinery,59427,16.6%,109100,"Deerfield, Illinois",1925,Public,https://www.caterpillar.com/,42.1881,-87.8833,10,98
+71,Merck & Co.,Pharmaceutical industry,59283,15.8%,68000,"Kenilworth, New Jersey",1891,Public,http://www.merck.com/,40.6959,-74.3512,100,132
+72,World Fuel Services,Petroleum industry and Logistics,59043,88.4%,5214,"Miami, Florida",1984,Public,https://www.wfscorp.com/,25.7617,-80.1918,10,39
+73,New York Life Insurance Company,Insurance,58445,14.2%,15050,"New York City, New York",1845,Public,http://newyorklife.com/,40.7127,-74.0059,1,178
+74,Enterprise Products,Petroleum industry,58186,42.6%,7300,"Houston, Texas",1968,Public,http://www.enterpriseproducts.com/,29.7619,-95.3863,10,55
+75,AbbVie,Pharmaceutical industry,58054,3.3%,50000,"Lake Bluff, Illinois",2013,Public,http://www.abbvie.com/,42.307,-87.9392,10,10
+76,Plains All American Pipeline,Petroleum industry,57342,36.3%,4100,"Houston, Texas",1981,Public,https://www.plainsallamerican.com/,29.7619,-95.3863,10,42
+77,Dow Chemical Company,Chemical industry,56902,3.5%,37800,"Midland, Michigan",1897,Public,http://dow.com/,41.9993,-84.2301,100,126
+78,AIG,Insurance,56437,8.4%,26200,"New York City, New York",1919,Public,https://www.aig.com/worldwide,40.7127,-74.0059,100,104
+79,American Express,Financial,55625,27.3%,77300,"New York City, New York",1850,Public,https://www.americanexpress.com/,40.7127,-74.0059,100,173
+80,Publix,Retail,54942,13.5%,242000,"Lakeland, Florida",1930,Private,https://www.publix.com/,28.0395,-81.95,1,93
+81,Charter Communications,Telecommunications,54022,4.5%,101700,"Stamford, Connecticut",1993,Public,https://corporate.charter.com/,41.0534,-73.5387,100,30
+82,Tyson Foods,Food Processing,53282,13.2%,142000,"Springdale, Arkansas",1935,Public,http://www.tysonfoods.com/,36.3728,-94.2088,10,88
+83,John Deere,Agriculture manufacturing,52577,19.4%,82239,"Moline, Illinois",1868,Public,https://www.deere.com/,41.5067,-90.5175,10,155
+84,Cisco,Telecom Hardware Manufacturing,51557,3.5%,83300,"San Jose, California",1984,Public,https://www.cisco.com/,37.339,-121.895,100,39
+85,Nationwide Mutual Insurance Company,Financial,5145,8.6%,24791,"Columbus, Ohio",1926,Private,http://nationwide.com/,39.9612,-83.0,1,97
+86,Allstate,Insurance,51412,3.4%,54250,"Northfield Township, Cook County, Illinois",1931,Public,http://allstate.com/,42.0334,-87.85,1,92
+87,Delta Air Lines,Airline,50582,69.2%,95000,"Atlanta, Georgia",1925,Public,https://www.deltashop.com/,33.749,-84.388,10,98
+88,Liberty Mutual,Insurance,49956,3.6%,50000,"Boston, Massachusetts",1912,Private,http://libertymutual.com/,42.3601,-71.0589,1,111
+89,TJX,Retail,49936,2.9%,329000,"Framingham, Massachusetts",1987,Public,http://tjx.com/,42.263,-71.4131,10,36
+90,Progressive Corporation,Insurance,49611,4.0%,55063,"Mayfield Village, Ohio",1937,Public,https://www.progressive.com/,41.5781,-81.4542,10,86
+91,American Airlines,Airline,48971,63.9%,129700,"Fort Worth, Texas",1926,Public,https://www.aa.com/,32.7555,-97.3208,10,97
+92,CHS,Agriculture cooperative,47194,24.3%,10014,"Inver Grove Heights, Minnesota",1931,Cooperative,http://www.chsinc.com/,44.8597,-93.042,10,92
+93,Performance Food Group,Food Processing,47194,61.6%,34825,"Richmond, Virginia",1885,Public,https://www.pfgc.com/,37.5407,-77.436,10,138
+94,PBF Energy,Petroleum industry,4683,71.8%,3616,"Parsippany–Troy Hills, New Jersey",2008,Public,http://pbfenergy.com/,40.8606,-74.4417,10,15
+95,Nike,Apparel,4671,4.9%,79100,"Beaverton, Oregon",1964,Public,https://www.nike.com/,45.4927,-122.8038,10,59
+96,Best Buy,Retail,46298,10.6%,71100,"Richfield, Minnesota",1966,Public,https://www.bestbuy.com/,44.8714,-93.2861,1,57
+97,Bristol-Myers Squibb,Pharmaceutical industry,46159,0.5%,34300,"New York City, New York",1887,Public,http://bms.com/,40.7127,-74.0059,100,136
+98,United Airlines,Airline,44955,82.5%,92795,"Chicago, Illinois",1926,Public,https://www.united.com/,41.8781,-87.6298,10,97
+99,Thermo Fisher Scientific,Laboratory instruments,44915,14.5%,130000,"Waltham, Massachusetts",1956,Public,http://www.thermofisher.com/,42.3767,-71.2356,100,67
+100,Qualcomm,Technology,442,31.7%,51000,"San Diego, California",1985,Public,https://www.qualcomm.com/,32.7157,-117.1611,100,38
